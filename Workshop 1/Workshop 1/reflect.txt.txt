@@ -1,0 +1,18 @@
+// Name: Callum Dodge
+// Seneca Student ID: 100229178
+// Seneca email: cdodge1@myseneca.ca
+// Date of completion: Sept 11, 2018
+//
+// I confirm that the content of this file is created by me,
+// with the exception of the parts provided to me by my professor.
+
+In this workshop, there was at least three concepts that I have learned; the use of static, extern, and the use of 
+auto. Static, an internal linkage, allows the user to declare a variable with the same name more than once within the 
+same scope or module. By using Static in this workshop, we are able to use the same variable in more than one scope and then 
+ change the value of this variable whenever we want to become the same variable but with a different address. Extern, an 
+external linkage, allows the user to use the same variable the user has declared in a scope to be used in another module. This
+command allows use to use this variable in our workshop to set a MAX amount or even print out what the MAX amount is. The 
+command auto, is a special command because it auto identifies the type it should use when a variable is declared. 
+
+Another thing that I have learned while doing this workshop is how to incorporate arguments entered by the user. By using 
+this we can take each argument store it into a variable and then display or make any changes to this argument. 
